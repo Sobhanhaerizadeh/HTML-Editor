@@ -1,0 +1,31 @@
+.txt {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    margin: 50px 50px;
+    border: 1px solid black;
+    font-size: 16px;
+}
+
+.dev {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    margin: 50px 800px;
+    text-align: center;
+}
+
+.btn {
+    background-color: greenyellow;
+    border-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100px;
+    position: absolute;
+    margin: 300px 675px;
+}
+
+.show {
+    font-weight: bold;
+}
